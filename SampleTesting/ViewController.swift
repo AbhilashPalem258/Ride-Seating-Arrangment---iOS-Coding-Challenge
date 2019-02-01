@@ -96,6 +96,7 @@ class ViewControllerDataLayer: BaseTableViewDataLayer<Matrix>{
         for obj in arr{
             DataArray?.append(Matrix.init(rows: obj.0, columns: obj.1))
         }
+        
     }
     
 }
