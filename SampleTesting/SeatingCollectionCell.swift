@@ -49,7 +49,7 @@ extension SeatingCollectionCell{
         textLayer.foregroundColor = UIColor.white.cgColor
         textLayer.font = UIFont(name: "AvenirNext-Bold", size: 15.0)
         textLayer.fontSize = 15.0
-        textLayer.alignmentMode = kCAAlignmentCenter
+        textLayer.alignmentMode = CATextLayerAlignmentMode.center
         textLayer.backgroundColor = UIColor.clear.cgColor
         textLayer.frame = self.layer.bounds
         textLayer.contentsScale = UIScreen.main.scale
