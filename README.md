@@ -1,4 +1,4 @@
-This was done as part of coding challenge to fill the seats in the following order
+This was done back in 2017 as part of coding challenge to fill the flight seats in the following order
 1. Aisle
 2. Middle
 3. Window
